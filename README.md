@@ -1,2 +1,4 @@
-# Sudoku_java
-this is the homework01 of java
+Sudoku
+=========
+
+This is a simple sudoku game.
